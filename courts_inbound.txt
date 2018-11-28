@@ -1,0 +1,28 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	realex.com
+Address: 206.188.192.32
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	isi.gov.ie
+Address: 193.178.30.185
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	printpost.ie
+Address: 46.22.138.157
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ticomailworks.ie
+Address: 89.101.59.47
+
